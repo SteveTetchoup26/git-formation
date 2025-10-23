@@ -58,4 +58,11 @@ This project is dedicated to learning Git
 
 ```css
     @import url("../common-style");
+    
 ```
+
+
+
+
+<!-- A PROPOS-->
+j'ai utilise ton code couleur et faire mon propre css dans style/about.css
